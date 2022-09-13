@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/vinaydampuru/.vim'
+let g:netrw_dirhist_2='/hwetools/work_area/frontend/vinay_B7/sv_course/fine_grain_process_control/fine_kill'
